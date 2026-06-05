@@ -5,7 +5,7 @@ see https://git-scm.com/docs/pretty-formats bullet point "reference"
 
 ## git push
 `git push --force-with-lease`
-Prevents push when remote tracking branch does not match remote (anymore).
+Prevents push when remote tracking branch cannot be fast forwarded anymore to achieve the push. (Jetbrains IDEs do this on default.)
 
 # Qt-Creator
 ## Version Control
@@ -13,7 +13,7 @@ Prevents push when remote tracking branch does not match remote (anymore).
 
 # Eclipse
 ## Workbench
-- Is the presentation of the workspace (as I understand)
+- "Workbench" is the presentation of the workspace (as I understand)
 
 # Scrum-Tools
 ## Planning Poker
